@@ -1,4 +1,4 @@
-# Experimento 1 — Geração de Letras no Estilo Engenheiros do Hawaii
+# Experimento 3 — Geração de Letras no Estilo Engenheiros do Hawaii
 
 ## 🎸 Objetivo
 O propósito deste experimento foi gerar letras originais inspiradas no estilo dos **Engenheiros do Hawaii**, utilizando **dois modelos de linguagem diferentes**:
